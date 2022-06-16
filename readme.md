@@ -1,8 +1,19 @@
-npm init -y
-git init
-adicinado arquivo .gitignore
-npm install webpack -D
-npx webpack-cli init
-npm i react react-dom
-npm i @types/react @types/react-dom typescript ts-node -D
-configurar index.tsx e webpack para renderizar react
+<h1>Login Form with Lightbuttom</h1>
+
+<br/>
+
+# :globe_with_meridians: Technologies
+
+- [x] ReactJs
+- [x] Typescript
+- [x] Webpack
+
+# Run dev
+npm run serve
+or
+yarn serve
+
+# Run production
+npm run build
+or
+yarn build
