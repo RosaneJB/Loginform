@@ -3,10 +3,12 @@
     "allowSyntheticDefaultImports": true,
     "noImplicitAny": true,
     "module": "es6",
+    "esModuleInterop": true,
     "target": "es5",
     "allowJs": true,
     "jsx": "react-jsx",
     "moduleResolution": "node"
   },
-  "files": ["src/index.tsx"]
+  "files": ["src/index.tsx"],
+  "include": ["src"]
 }

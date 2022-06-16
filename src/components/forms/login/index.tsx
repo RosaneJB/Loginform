@@ -4,7 +4,7 @@ import "./style.css"
 export const LoginForm = () => {
     return (
         <div className="login-box">
-            <img src="/brasao.png" alt="" />
+            <img src="assets/img/brasao.png" alt="" />
             <form action="">
                 <div className="user-box">
                     <input type="text" required />
